@@ -1,7 +1,7 @@
 ---
 ---
 
-# evancornettDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Cornett Lab @ IUSM
 
 
 
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Research.png"
   link="research"
   title="Our Research"
   text=text
