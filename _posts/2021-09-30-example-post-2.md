@@ -1,6 +1,7 @@
 ---
-title: Example post 2
-author: jane-smith
+title: In the beginning...
+author: evan-cornett
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Cornett Lab is open for science. The equipment is on the way to fill this beautiful lab space. The only missing ingredient is a curious team ready to tackle lysine methylation signaling. We are currently looking for a research technician and a postdoc. Keep your eye open for advertisements to be posted soon and if you are interested feel free to send your CV and a statement of your research experience and interests to Evan (evcorn@iu.edu).
+
