@@ -458,7 +458,7 @@
 
 <header
   class="background"
-  style="--image: url('/cornettlab/images/header.png')"
+  style="--image: url('/cornettlab/images/Research.png')"
   
     data-dark="true"
   
@@ -625,7 +625,7 @@ Malini joined Indiana University School of Medicine as a Master's student in Fal
 
 <footer
   class="background"
-  style="--image: url('/cornettlab/images/header.jpg')"
+  style="--image: url('/cornettlab/images/background.jpg')"
   
     data-dark="true"
   
@@ -638,6 +638,30 @@ Malini joined Indiana University School of Medicine as a Master's student in Fal
   -->
 
   <div>
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a
+      class="button"
+      href="mailto:contact@evancornettDESCRIPTION=An engaging 1-3 sentence description of your lab..com"
+      
+        data-tooltip="Email"
+      
+      data-style="bare"
+      
+      aria-label="Email"
+    >
+      <i class="icon fa-solid fa-envelope"></i>
+      
+    </a>
+  </div>
+
+
     
       
       
