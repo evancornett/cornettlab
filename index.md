@@ -1,17 +1,12 @@
 ---
 ---
 
-# Cornett Lab @ IUSM
-
-
 
 {% include section.html %}
 
-## Highlights
-
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We aim to understand how, where, and why lysine methylation regulates cellular processes. Toward this goal, we use in vitro and cellular biochemistry, chemical biology, and proteomics approaches to map lysine methylation signaling networks and study the regulators of lysine methylation.
 
 {%
   include button.html
@@ -26,7 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/Research.png"
+  image="images/research.png"
   link="research"
   title="Our Research"
   text=text
@@ -34,11 +29,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-We aim to understand how, where, and why lysine methylation regulates cellular processes. Toward this goal, we use in vitro and cellular biochemistry, chemical biology, and proteomics approaches to map lysine methylation signaling networks and study the regulators of lysine methylation.
-
 {%
   include button.html
-  link="Lab Members"
+  link="team"
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -51,7 +44,7 @@ We aim to understand how, where, and why lysine methylation regulates cellular p
   include feature.html
   image="images/group.jpg"
   link="team"
-  title="Lab Members"
+  title="Team"
   flip=true
   style="bare"
   text=text
@@ -59,7 +52,7 @@ We aim to understand how, where, and why lysine methylation regulates cellular p
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Read about what the Cornett Lab has been up to lately!
 
 {%
   include button.html
