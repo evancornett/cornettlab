@@ -7,15 +7,15 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-The Cornett Lab is housed within the Indiana University School of Medicine Department of Biochemistry and Molecular Biology. The lab is located within the Van Nuys Medical Science building on the Indiana University - Indianapolis campus.
+The Cornett Lab is housed within the Indiana University School of Medicine Department of Biochemistry and Molecular Biology. The lab is located within the Van Nuys Medical Science building on the Indiana University - Indianapolis campus.<br>
 
-Shipping Address:
-ATTN: Cornett Lab
-Building VanNuys Med Sci Bldg
-Room# MS4075
-635 BARNHILL DR
-INDIANAPOLIS, IN 46202-5120
-United States
+Shipping Address:<br>
+ATTN: Cornett Lab<br>
+Building VanNuys Med Sci Bldg<br>
+Room# MS4075<br>
+635 BARNHILL DR<br>
+INDIANAPOLIS, IN 46202-5120<br>
+United States<br>
 
 {%
   include button.html
