@@ -2,10 +2,10 @@
 title: Lab Members
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: About our members
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Lab Members
 
 
 
