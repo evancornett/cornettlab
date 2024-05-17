@@ -20,18 +20,20 @@ United States<br>
 {%
   include button.html
   type="email"
+  tooltip="Email Evan"
   text="evcorn@iu.edu"
   link="evcorn@iu.edu"
 %}
 {%
   include button.html
   type="phone"
+  tooltip="Evan's Office Phone"
   text="(317) 278-4503"
   link="+1-317-278-4503"
 %}
 {%
   include button.html
-  type="Map"
+  type="adress"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps?sll=39.776612,-86.178275&q=635+Barnhill+Drive+Indianapolis,+IN,+46202,+United+States&z=16"
 %}
