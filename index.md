@@ -34,12 +34,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We aim to understand how, where, and why lysine methylation regulates cellular processes. Toward this goal, we use in vitro and cellular biochemistry, chemical biology, and proteomics approaches to map lysine methylation signaling networks and study the regulators of lysine methylation.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="Lab Members"
+  text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,9 +49,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  image="images/group.jpg"
+  link="team"
+  title="Lab Members"
   flip=true
   style="bare"
   text=text
@@ -63,8 +63,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link="blog"
+  text="Latest news"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -74,8 +74,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  image="images/highlight.jpg"
+  link="blog"
+  title="News"
   text=text
 %}
