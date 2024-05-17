@@ -94,12 +94,8 @@
   date: '2018-11-02'
   link: https://doi.org/gfqp27
   orcid: 0000-0003-1468-4506
-  plugin: sources.py
-  file: sources.yaml
-  image: /images/scientificreports2023.png
-  tags:
-  - mass spectrometry
-  - collaboration
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.molcel.2018.08.015
   title: Examining the Roles of H3K4 Methylation States with Systematically Characterized
     Antibodies
@@ -372,3 +368,24 @@
   orcid: 0000-0003-1468-4506
   plugin: orcid.py
   file: orcid.yaml
+- id: 10.1038/s41598-022-27175-x
+  title: Global lysine methylome profiling using systematically characterized affinity
+    reagents
+  authors:
+  - Christine A. Berryhill
+  - Jocelyne N. Hanquier
+  - Emma H. Doud
+  - Eric Cordeiro-Spinetti
+  - Bradley M. Dickson
+  - Scott B. Rothbart
+  - Amber L. Mosley
+  - Evan M. Cornett
+  publisher: Scientific Reports
+  date: '2023-01-07'
+  link: https://doi.org/gtvgcc
+  image: /images/scientificreports2023.png
+  tags:
+  - mass spectrometry
+  - collaboration
+  plugin: sources.py
+  file: sources.yaml
