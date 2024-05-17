@@ -33,7 +33,8 @@ United States<br>
 %}
 {%
   include button.html
-  type="adress"
+  type="address"
+  text="Map"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps?sll=39.776612,-86.178275&q=635+Barnhill+Drive+Indianapolis,+IN,+46202,+United+States&z=16"
 %}
