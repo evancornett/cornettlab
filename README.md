@@ -1,5 +1,5 @@
 
-# evancornettDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Cornett Lab Website
 
 Visit **[evancornett.github.io/cornettlab](https://evancornett.github.io/cornettlab)** 🚀
 
