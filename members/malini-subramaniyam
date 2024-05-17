@@ -466,6 +466,12 @@
 >
   <a href="/cornettlab/" class="home">
     
+      <span class="logo">
+        
+          <img src="/cornettlab/images/logo.png" alt="logo">
+        
+      </span>
+    
     
       <span class="title-text" data-tooltip="Home">
         
