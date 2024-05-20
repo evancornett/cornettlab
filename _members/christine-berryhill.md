@@ -1,7 +1,7 @@
 ---
 name: Christine Berryhill
 image: images/christine.jpg
-role: PhD Student
+role: phd
 aliases:
   - C. Berryhill
   - 
