@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41598-022-27175-x
+  title: Global lysine methylome profiling using systematically characterized affinity
+    reagents
+  authors:
+  - Christine A. Berryhill
+  - Jocelyne N. Hanquier
+  - Emma H. Doud
+  - Eric Cordeiro-Spinetti
+  - Bradley M. Dickson
+  - Scott B. Rothbart
+  - Amber L. Mosley
+  - Evan M. Cornett
+  publisher: Scientific Reports
+  date: '2023-01-07'
+  link: https://doi.org/gtvgcc
+  orcid: 0000-0003-1468-4506
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1074/jbc.RA120.015353
   title: A physical basis for quantitative ChIP-sequencing
   authors:
