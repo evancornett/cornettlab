@@ -7,8 +7,11 @@ The Cornett Lab is open for science. The equipment is on the way to fill this be
 
 {% capture content %}
   {% include figure.html image="images/oldlab1.jpg" width="400px" %}
+  
   {% include figure.html image="images/oldlab2.jpg" width="400px" %}
+  
   {% include figure.html image="images/oldlab3.jpg" width="400px" %}
+  
 {% endcapture %}
 
 {%
