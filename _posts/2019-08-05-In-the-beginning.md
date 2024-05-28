@@ -29,3 +29,15 @@ The Cornett Lab is open for science. The equipment is on the way to fill this be
 {% endcapture %}
 
 {% include grid.html content=content %}
+
+{% include section.html %}
+
+{% capture content %}
+
+{% include figure.html image="images/oldlab1.jpg" %}
+{% include figure.html image="images/oldlab2.jpg" %}
+{% include figure.html image="images/oldlab3.jpg" %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
