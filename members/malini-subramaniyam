@@ -458,7 +458,7 @@
 
 <header
   class="background"
-  style="--image: url('/cornettlab/images/header.png')"
+  style="--image: url('')"
   
     data-dark="true"
   
@@ -616,7 +616,7 @@ Malini joined Indiana University School of Medicine as a Master's student in Fal
 
 <footer
   class="background"
-  style="--image: url('/cornettlab/images/header.jpg')"
+  style="--image: url('')"
   
     data-dark="true"
   
