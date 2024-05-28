@@ -1,7 +1,7 @@
 ---
 name: Devon McCourry
 image: images/devon.jpg
-role: PhD Student
+role: phd
 aliases:
   - DM
   - 
