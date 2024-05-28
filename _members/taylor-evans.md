@@ -1,7 +1,7 @@
 ---
 name: Taylor Evans
 image: images/taylor.jpg
-role: PhD Student
+role: phd
 aliases:
   - TE
   - 
