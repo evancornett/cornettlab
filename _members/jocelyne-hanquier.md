@@ -1,7 +1,7 @@
 ---
 name: Jocelyne Hanquier
 image: images/jocelyne.jpg
-role: PhD Student
+role: phd
 aliases:
   - JHN
   - 
