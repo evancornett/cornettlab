@@ -21,9 +21,9 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/group2020.jpg" %}
+{% include figure.html image="images/group2021.jpg" %}
+{% include figure.html image="images/group2022.jpg" %}
 
 {% endcapture %}
 
