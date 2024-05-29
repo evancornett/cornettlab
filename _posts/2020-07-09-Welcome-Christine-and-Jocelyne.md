@@ -13,4 +13,4 @@ We are back in the lab after shutting down in early March to slow the spread of 
 
 {% endcapture %}
 
-{% include grid.html style="square" content=content %}
+
