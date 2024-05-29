@@ -4,7 +4,7 @@ image: images/jocelyne.jpg
 role: phd
 aliases:
   - JHN
-  - 
+  - Jocelyne
 links:
   orcid: 0000-0001-7195-482X
 ---
