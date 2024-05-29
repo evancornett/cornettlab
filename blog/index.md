@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: News
 nav:
   order: 4
   tooltip: Latest updates from the lab!
