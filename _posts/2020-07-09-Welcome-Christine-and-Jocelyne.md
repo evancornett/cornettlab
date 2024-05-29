@@ -1,6 +1,7 @@
 ---
 title: Welcome Chrsitine and Jocelyne!
 author: evan-cornett
+image: /images/july2020.jpg
 tags: STARTUP, COVID
 
 ---
