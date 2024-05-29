@@ -1,7 +1,23 @@
-- id: 10.1038/s41598-022-27175-x
+- id: doi:10.1038/s41598-022-27175-x
   image: /images/scientificreports2023.png
   tags:
+    - cornett lab
     - mass spectrometry
     - collaboration
 
+- id: doi:10.1038/s41467-019-10324-8
+  tags:
+    - evans postdoc papers
+
+- id: doi:10.1126/sciadv.aav2623
+  tags:
+    - evans postdoc papers
+
+- id: doi:10.1016/j.molcel.2018.08.015
+  tags:
+    - evans postdoc papers
+
+- id: doi:10.1038/s41467-019-10324-8
+  tags:
+    - evans postdoc papers
 
