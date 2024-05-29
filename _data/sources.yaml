@@ -1,5 +1,10 @@
-- id: 10.1038/s41598-022-27175-x
+- id: doi:10.1038/s41598-022-27175-x
   image: /images/scientificreports2023.png
   tags:
     - mass spectrometry
     - collaboration
+    - CORNETT LAB
+- id: doi:10.1038/s41598-022-27175-x
+  image: /images/scientificreports2023.png
+  tags:
+    - POSTDOC
