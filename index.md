@@ -6,15 +6,15 @@
 
 {% capture text %}
 
-We aim to understand how, where, and why lysine methylation regulates cellular processes. Toward this goal, we use in vitro and cellular biochemistry, chemical biology, and proteomics approaches to map lysine methylation signaling networks and study the regulators of lysine methylation.
+The Cornett Lab is a group of researchers at Indiana University School of Medicine in Indianapolis, Indiana. The lab is based in the Department of Biochemistry and Molecular Biology and is associated with the Indiana University Simon Comprehensive Cancer Center (IUSCC), Stark Neuroscience Research Institute (SNRI), and the Indiana University Center for Computational Biology and Bioinformatics (CCBB). 
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="team"
+  text="Meet the Cornett Lab!"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
+
 %}
 
 {% endcapture %}
@@ -23,16 +23,17 @@ We aim to understand how, where, and why lysine methylation regulates cellular p
   include feature.html
   image="images/research.png"
   link="research"
-  title="Our Research"
+  title="Research"
   text=text
 %}
 
 {% capture text %}
 
+We aim to understand how, where, and why lysine methylation regulates cellular processes. Toward this goal, we use in vitro and cellular biochemistry, chemical biology, and proteomics approaches to map lysine methylation signaling networks and study the regulators of lysine methylation.
 {%
   include button.html
-  link="team"
-  text="Meet the Cornett Lab!"
+  link="research"
+  text="Read our latest work!"
   icon="fa-solid fa-arrow-right"
   flip=true
  
