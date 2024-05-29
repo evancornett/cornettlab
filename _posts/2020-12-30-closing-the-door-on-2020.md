@@ -1,6 +1,6 @@
 ---
 title: Closing the door on 2020.
-image: images/door.jpeg
+image: images/door.jpg
 author: evan-cornett
 tags: COVID, STARTUP
 ---
