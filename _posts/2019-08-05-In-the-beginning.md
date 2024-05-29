@@ -1,5 +1,6 @@
 ---
 title: In the beginning...
+image: images/oldlab1.jpg
 author: evan-cornett
 ---
 
