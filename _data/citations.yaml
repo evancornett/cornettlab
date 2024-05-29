@@ -16,8 +16,13 @@
   date: '2023-01-07'
   link: https://doi.org/gtvgcc
   orcid: 0000-0003-1468-4506
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/scientificreports2023.png
+  tags:
+  - cornett lab
+  - mass spectrometry
+  - collaboration
 - id: doi:10.1074/jbc.RA120.015353
   title: A physical basis for quantitative ChIP-sequencing
   authors:
@@ -58,8 +63,10 @@
   date: '2019-05-24'
   link: https://doi.org/gqsrhw
   orcid: 0000-0003-1468-4506
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - evans postdoc papers
 - id: doi:10.1126/science.aar7854
   title: A DNA methylation reader complex that enhances gene transcription
   authors:
@@ -112,8 +119,10 @@
   date: '2018-11-02'
   link: https://doi.org/gfqp27
   orcid: 0000-0003-1468-4506
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - evans postdoc papers
 - id: doi:10.1016/j.molcel.2018.08.015
   title: Examining the Roles of H3K4 Methylation States with Systematically Characterized
     Antibodies
@@ -139,8 +148,10 @@
   date: '2018-10-01'
   link: https://doi.org/gfftgz
   orcid: 0000-0003-1468-4506
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - evans postdoc papers
 - id: doi:10.1073/pnas.1806373115
   title: Chromatin structure and its chemical modifications regulate the ubiquitin
     ligase substrate selectivity of UHRF1
@@ -386,24 +397,3 @@
   orcid: 0000-0003-1468-4506
   plugin: orcid.py
   file: orcid.yaml
-- id: 10.1038/s41598-022-27175-x
-  title: Global lysine methylome profiling using systematically characterized affinity
-    reagents
-  authors:
-  - Christine A. Berryhill
-  - Jocelyne N. Hanquier
-  - Emma H. Doud
-  - Eric Cordeiro-Spinetti
-  - Bradley M. Dickson
-  - Scott B. Rothbart
-  - Amber L. Mosley
-  - Evan M. Cornett
-  publisher: Scientific Reports
-  date: '2023-01-07'
-  link: https://doi.org/gtvgcc
-  image: /images/scientificreports2023.png
-  tags:
-  - mass spectrometry
-  - collaboration
-  plugin: sources.py
-  file: sources.yaml
