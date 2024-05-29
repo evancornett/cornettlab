@@ -4,7 +4,7 @@ image: images/christine.jpg
 role: phd
 aliases:
   - C. Berryhill
-  - 
+  - Christine
 links:
   orcid: 0000-0002-4657-2376
   twitter: aushbegosh
