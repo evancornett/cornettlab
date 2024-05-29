@@ -6,12 +6,12 @@
 
 {% capture text %}
 
-The Cornett Lab is a group of researchers at Indiana University School of Medicine in Indianapolis, Indiana. The lab is based in the Department of Biochemistry and Molecular Biology and is associated with the Indiana University Simon Comprehensive Cancer Center (IUSCC), Stark Neuroscience Research Institute (SNRI), and the Indiana University Center for Computational Biology and Bioinformatics (CCBB). 
+The Cornett Lab is a group of researchers at the [Indiana University School of Medicine](https://medicine.iu.edu/) in Indianapolis, Indiana. The lab is based in the [Department of Biochemistry and Molecular Biology](https://medicine.iu.edu/biochemistry-molecular-biology) and is associated with the [Indiana University Simon Comprehensive Cancer Center (IUSCC)](https://cancer.iu.edu/index.html), [Stark Neurosciences Research Institute (SNRI)](https://medicine.iu.edu/research-centers/neurosciences), and the [Indiana University Center for Computational Biology and Bioinformatics (CCBB)](https://medicine.iu.edu/research-centers/computational-biology-bioinformatics). 
 
 {%
   include button.html
   link="team"
-  text="Meet the Cornett Lab!"
+  text="Meet the Cornett Lab"
   icon="fa-solid fa-arrow-right"
   flip=true
 
@@ -21,9 +21,8 @@ The Cornett Lab is a group of researchers at Indiana University School of Medici
 
 {%
   include feature.html
-  image="images/research.png"
-  link="research"
-  title="Research"
+  image="images/group.jpg"
+  link="team"
   text=text
 %}
 
@@ -33,7 +32,7 @@ We aim to understand how, where, and why lysine methylation regulates cellular p
 {%
   include button.html
   link="research"
-  text="Read our latest work!"
+  text="Read our latest work"
   icon="fa-solid fa-arrow-right"
   flip=true
  
@@ -43,24 +42,22 @@ We aim to understand how, where, and why lysine methylation regulates cellular p
 
 {%
   include feature.html
-  image="images/group.jpg"
-  link="team"
-  title="Team"
+  image="images/research.png"
+  link="research"
   flip=true
-  style="bare"
   text=text
 %}
 
 {% capture text %}
-Read about what the Cornett Lab has been up to lately!
+Get a  glimpse into life in the Cornett Lab. Join us as we share stories that unfold both within the lab walls and in our lives beyond. 
 
 {%
   include button.html
   link="blog"
-  text="Latest news"
+  text="Read the latest news"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
+
 %}
 
 {% endcapture %}
@@ -69,6 +66,5 @@ Read about what the Cornett Lab has been up to lately!
   include feature.html
   image="images/news.jpg"
   link="blog"
-  title="News"
   text=text
 %}
