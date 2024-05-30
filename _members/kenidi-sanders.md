@@ -2,6 +2,7 @@
 name: Kenidi Sanders
 image: images/kenidi.jpg
 role: summer
+group: alum
 aliases:
   - Kenidi
 
