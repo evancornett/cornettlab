@@ -17,6 +17,12 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: MS, group: " %}
 {% include list.html data="members" component="portrait" filters="role: summer, group: " %}
 
+
+{% include section.html dark=true %}
+
+
+
+{% include section.html %}
 {% include section.html %}
 
 ## Alumni
