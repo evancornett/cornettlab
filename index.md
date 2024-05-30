@@ -64,7 +64,7 @@ Get a  glimpse into life in the Cornett Lab. Join us as we share stories that un
 
 {%
   include feature.html
-  image="images/news.jpg"
+  image="images/summer2023-10.jpg"
   link="blog"
   text=text
 %}
