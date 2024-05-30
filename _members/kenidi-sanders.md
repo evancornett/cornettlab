@@ -1,7 +1,7 @@
 ---
 name: Kenidi Sanders
 image: images/kenidi.jpg
-role: alumni
+role: summer
 aliases:
   - Kenidi
 
