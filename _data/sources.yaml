@@ -50,6 +50,13 @@
   tags:
     - evans postdoc papers
     - VAI
+    
+- id: doi:10.1016/j.jbc.2023.104651
+  image: /images/prdm9.png
+  tags:
+    - cornett lab
+    
+
 
 - id: doi:10.1126/sciadv.adk4423
   tags:
