@@ -19,8 +19,11 @@
   date: '2024-03-29'
   link: https://doi.org/gtw9f4
   orcid: 0000-0003-1468-4506
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - collaboration
+  - VAI
 - id: doi:10.1016/j.jbc.2023.104651
   title: Identification of nonhistone substrates of the lysine methyltransferase PRDM9
   authors:
@@ -516,26 +519,3 @@
   orcid: 0000-0003-1468-4506
   plugin: orcid.py
   file: orcid.yaml
-- id: 10.1126/sciadv.adk4423
-  title: Select EZH2 inhibitors enhance viral mimicry effects of DNMT inhibition through
-    a mechanism involving NFAT:AP-1 signaling
-  authors:
-  - Alison A. Chomiak
-  - Rochelle L. Tiedemann
-  - Yanqing Liu
-  - Xiangqian Kong
-  - Ying Cui
-  - Ashley K. Wiseman
-  - Kate E. Thurlow
-  - Evan M. Cornett
-  - Michael J. Topper
-  - Stephen B. Baylin
-  - Scott B. Rothbart
-  publisher: Science Advances
-  date: '2024-03-29'
-  link: https://doi.org/gtw9f4
-  tags:
-  - collaboration
-  - VAI
-  plugin: sources.py
-  file: sources.yaml
