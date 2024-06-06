@@ -14,7 +14,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pi, group: " %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
-{% include list.html data="members" component="portrait" filters="role: MS, group: " %}
+{% include list.html data="members" component="portrait" filters="role: ms, group: " %}
 {% include list.html data="members" component="portrait" filters="role: summer, group: " %}
 
 
@@ -29,7 +29,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: MS, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: ms, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: summer, group: alum" style="small" %}
 
