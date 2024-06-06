@@ -40,7 +40,7 @@
   orcid: 0000-0003-1468-4506
   plugin: sources.py
   file: sources.yaml
-  image: /images/prdm9.png
+  image: /images/prdm9.jpeg
   tags:
   - cornett lab
 - id: doi:10.1038/s41598-022-27175-x
