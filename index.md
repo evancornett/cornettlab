@@ -49,7 +49,7 @@ We aim to understand how, where, and why lysine methylation regulates cellular p
 %}
 
 {% capture text %}
-Get a  glimpse into life in the Cornett Lab. 
+Get a  glimpse at life in the Cornett Lab. 
 
 {%
   include button.html
