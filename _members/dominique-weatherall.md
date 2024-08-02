@@ -2,7 +2,7 @@
 name: Dominique Weatherall
 image: images/dom.jpg
 role: summer
-group: 
+group: alum
 aliases:
   - Dom
 
