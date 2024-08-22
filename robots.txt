@@ -1,1 +1,1 @@
-Sitemap: http://www.cornettlab.com/sitemap.xml
+Sitemap: https://www.cornettlab.com/sitemap.xml
