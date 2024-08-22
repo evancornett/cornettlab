@@ -2,6 +2,7 @@
 name: Christine Berryhill
 image: images/christine.jpg
 role: phd
+group: alum
 aliases:
   - C. Berryhill
   - Christine
