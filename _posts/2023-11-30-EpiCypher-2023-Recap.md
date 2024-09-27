@@ -1,5 +1,5 @@
 ---
-title: Fall 2023 Recap
+title: EpiCypher Meeting 2023
 image: images/fall2023-1.jpg
 author: evan-cornett
 tags: conference
